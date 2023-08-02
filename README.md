@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![GuoganMei's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoganMei&count_private=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoganMei&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
-
-
+![GuoganMei's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoganMei&show_icons=true&theme=tokyonight)
 
 <!---
 GuoganMei/GuoganMei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
