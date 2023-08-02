@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![GuoganMei's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoganMei&count_private=true&theme=dark)
+[![GuoganMei's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoganMei&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoganMei&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoganMei&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
 
 
 
