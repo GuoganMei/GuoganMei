@@ -1,6 +1,7 @@
+<!---
 - 👋 Hi, I’m @GuoganMei
 - 👀 I’m interested in robotics
-<!---
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on
 --->
